@@ -1,16 +1,15 @@
-# quiz_app
+🚀 Just built a dynamic Quiz App with Flutter and Dart! 📚🔍
 
-A new Flutter project.
+✅ Tested my knowledge with a set of challenging questions and tracked my progress!
 
-## Getting Started
+💡 Features:
 
-This project is a starting point for a Flutter application.
+Restart the button for another round of quiz fun! ♻️
+Track the number of correct and incorrect answers! ✔️❌
+Selected and correct answers are displayed side by side! 📝✅
+Question index color changes for correct and wrong answers! 🎨
+I'm proud of how this app turned out, utilizing core Flutter and Dart concepts like Stateful Widgets, State Management, Conditional Rendering, Widget Composition, and list manipulation. It was an exciting journey of learning and building.
 
-A few resources to get you started if this is your first Flutter project:
+Check it out on my GitHub repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Flutter #Dart #QuizApp #LearningByDoing #AppDevelopment #LinkedInLearning
